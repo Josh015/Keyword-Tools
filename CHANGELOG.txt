@@ -1,0 +1,24 @@
+Version 1.6
+=====================
+- Changed "Reporter" to add a section for shaders that list their associated materials.
+
+Version 1.5
+=====================
+- Fixed an issue where the Obliterater was having argument out of range exceptions.
+
+Version 1.4
+=====================
+- Fixed Material -> Keyword lists to be sorted alphabetically.
+
+Version 1.3
+=====================
+- Fixed issue where empty keyword strings appeared in reports.
+
+Version 1.2
+=====================
+- Added counts for each section in the keyword reports.
+- Improved performance slightly.
+
+Version 1.1
+=====================
+- Changed the Reporter tool to have much more readable reports with keywords that can be directly copy-pasted to the Obliterater.
